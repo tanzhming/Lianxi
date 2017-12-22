@@ -8,6 +8,7 @@ package cn.jju.sacbs;
  * @author dell
  *
  */
+
 public class LainXi41 {
 
 	public static void main(String[] args) {
